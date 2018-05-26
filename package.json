@@ -1,0 +1,30 @@
+{
+  "name": "react-footer-comp",
+  "version": "0.0.1",
+  "dependencies": {
+    "react": "^16.4.0"
+  },
+  "description": "react based footer component for easy footers in websites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajaraghav/react-footer-comp.git"
+  },
+  "keywords": [
+    "react",
+    "footer",
+    "component",
+    "reactjs",
+    "website",
+    "react-footer"
+  ],
+  "author": "raja raghav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rajaraghav/react-footer-comp/issues"
+  },
+  "homepage": "https://github.com/rajaraghav/react-footer-comp#readme"
+}
