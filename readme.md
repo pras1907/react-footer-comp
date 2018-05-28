@@ -1,5 +1,5 @@
 # React Footer Comp
-React Footer Comp is a react based footer component with dynamic date generation.
+React Footer Comp is a react based footer component with dynamic year generation.
 
 ### [Try React Footer Comp](https://codesandbox.io/s/8xl4vwkz49)
 React footer comp is developed by Raja Raghav.
