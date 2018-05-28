@@ -8,7 +8,7 @@ React footer comp is developed by Raja Raghav.
 ![React Footer Comp Example](https://image.ibb.co/gGEXOJ/Screen_Shot_2018_05_28_at_5_36_45_PM.png)
 
 ### Code used in above example
-`const App = () => (
+`const App = function(){
   <div>
     <Footer
       copyrightIcon
@@ -22,7 +22,7 @@ React footer comp is developed by Raja Raghav.
       text={"All rights reserved."}
     />
   </div>
-);`
+};`
 
 ###### [Try it here](https://codesandbox.io/s/8xl4vwkz49)
 ## Features 
