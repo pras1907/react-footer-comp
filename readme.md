@@ -8,21 +8,7 @@ React footer comp is developed by Raja Raghav.
 ![React Footer Comp Example](https://image.ibb.co/gGEXOJ/Screen_Shot_2018_05_28_at_5_36_45_PM.png)
 
 ### Code used in above example
-`const App = function(){
-  <div>
-    <Footer
-      copyrightIcon
-      years={[2012]}
-      height={150}
-      bgColor={"orangered"}
-      copyrightText
-      copyrightIconStyle={{ color: "white", fontSize: 20, marginRight: 10 }}
-      copyrightTextStyle={{ color: "white", fontSize: 20, marginRight: 10 }}
-      textStyle={{ color: "yellow", fontSize: 16, marginRight: 10 }}
-      text={"All rights reserved."}
-    />
-  </div>
-};`
+`code`
 
 ###### [Try it here](https://codesandbox.io/s/8xl4vwkz49)
 ## Features 
