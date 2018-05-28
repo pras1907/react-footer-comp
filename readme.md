@@ -8,7 +8,7 @@ React footer comp is developed by Raja Raghav.
 ![React Footer Comp Example](https://image.ibb.co/gGEXOJ/Screen_Shot_2018_05_28_at_5_36_45_PM.png)
 
 ### Code used in above example
-  `const App = () => (
+`const App = () => (
   <div>
     <Footer
       copyrightIcon
@@ -23,6 +23,7 @@ React footer comp is developed by Raja Raghav.
     />
   </div>
 );`
+
 ###### [Try it here](https://codesandbox.io/s/8xl4vwkz49)
 ## Features 
 * Dynamic Date generation, i.e. date changes every year
@@ -34,7 +35,8 @@ React footer comp is developed by Raja Raghav.
 ## Installation
 1. `npm install --save react-footer-comp`
 2. Intialize
-    `import Footer from 'react-footer-comp'`
+    `import Footer from "react-footer-comp"`
+    
     `class MyComponent extends React.Component
     {
     render(){
